@@ -1,0 +1,9 @@
+s = input("Enter the input string: ")
+o= ""
+for char in s:
+    if 'A' <= char <= 'Z':
+        o += chr(ord(char) + 32)
+    else:
+        o+= char
+print("The output string:", o)
+
