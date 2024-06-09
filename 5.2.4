@@ -1,0 +1,23 @@
+l=[]
+n=int(input("Enter size of an array:"))
+print("Enter",n,"elements")
+for i in range(n):
+    k=int(input())
+    l.append(k)
+h=[]
+j=int(input("Enter size of an array:"))
+print("Enter",j,"elements")
+for i in range(j):
+    t=int(input())
+    h.append(t)
+c=0
+for i in l and h:
+    if l[i]==h[i]:
+        c=1
+    else:
+        c=0
+if c==1:
+    print("Both arrays are equal")
+else:
+    print("Both arrays are not equal")
+        
