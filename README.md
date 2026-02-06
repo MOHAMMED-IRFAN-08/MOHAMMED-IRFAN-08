@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MOHAMMED-IRFAN-08
 - 👀 I’m interested in ...GAMES 
-- 🌱 I’m currently learning ...CODING 
+- 🌱 I’m currently learning ... GAME DEVLOPMENT AND CODING
 - 💞️ I’m looking to collaborate on ...ROCKSTAR
 - 📫 How to reach me ...MAIL
 - 😄 Pronouns: ...MD
